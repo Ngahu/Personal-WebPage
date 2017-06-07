@@ -1,3 +1,24 @@
-h1{
-    color:red;
+body{
+  padding: 0;
+  margin: 0;
+}
+
+
+#box-1{
+  height: 100vh;
+  width: 100%;
+  background-image: url('../images/dj.jpg');
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-1 h1{
+  font-size: 50px;
+  color: white;
+  font-family: arial black;
+  margin: 0px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
 }
