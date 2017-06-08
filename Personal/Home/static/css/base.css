@@ -127,3 +127,26 @@ body{
 
 /* above is the code for the button buh it has not been used yet.
 When code used remeber to update cmment */
+
+
+
+#mine h1{
+  font-style:italic;
+  padding-top: 50px;
+  font-size: 37px;
+}
+
+
+#mine{
+
+  text-align: center;
+    font-family: arial black;
+  font-weight: 900;
+  text-decoration:none;
+  font-size: 25px;
+}
+
+#para p{
+  color: #333;
+  font-size: 30px;
+}
