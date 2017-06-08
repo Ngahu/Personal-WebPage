@@ -150,3 +150,18 @@ When code used remeber to update cmment */
   color: #333;
   font-size: 30px;
 }
+
+
+.paragraph-expertiseSection h2{
+  font-size: 100px;
+
+}
+
+h2{
+  color: #333;
+  padding: 15px 0 ;
+  font-size: 1.7em;
+  line-height: 1.2;
+  text-transform: uppercase;
+  font-weight: 500;
+}
