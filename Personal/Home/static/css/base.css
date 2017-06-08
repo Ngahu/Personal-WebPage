@@ -172,6 +172,23 @@ h2{
 }
 
 
-#mwisho {
-  font-size: 90px;
+h3{
+  display: block;
+  padding-top: 50px;
+  font-size: 37px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+  vertical-align: baseline;
+
+}
+
+.sub-title{
+  display: block;
+  color: #333;
+  letter-spacing: 0;
+  font-weight: 200;
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 20px;
 }
