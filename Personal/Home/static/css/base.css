@@ -165,3 +165,13 @@ h2{
   text-transform: uppercase;
   font-weight: 500;
 }
+#mwisho{
+  vertical-align: middle;
+  align-content: center;
+  align-self: center;
+}
+
+
+#mwisho {
+  font-size: 90px;
+}
